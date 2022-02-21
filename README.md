@@ -45,8 +45,7 @@
 
 <h3 align="center">Tools:</h3>
 <p align="center"> 
-
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_macos_bigsur_icon_189957.png" alt="bootstrap" width="50" height="40"/> </a> 
 
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
