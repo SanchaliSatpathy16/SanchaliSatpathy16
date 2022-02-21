@@ -1,8 +1,6 @@
 <h1 align="center">Hola👋, I'm Sanchali Satpathy</h1>
 <h3 align="center">A student of B.Tech CSE'24 pursueing from Insttute of Technical and Engineering Research (SOA). </h3>
 
-
-
 <p align="center"> <a href="https://twitter.com/i_am_sanchali" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_sanchali?logo=twitter&style=for-the-badge" alt="i_am_sanchali" /></a> </p>
 
 - 🔭 I’m currently studying at [Shiksha 'O' Anusandhan (ITER),Bhubaneswar](https://www.soa.ac.in/iter)
