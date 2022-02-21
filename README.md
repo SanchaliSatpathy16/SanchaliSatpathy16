@@ -11,7 +11,6 @@
 
 - ⚡ Fun Fact **Fond of doing New Stuffs.**
 
----
 
 <h3 align="center">Connect with Me: </h3>
 <p align="center">
