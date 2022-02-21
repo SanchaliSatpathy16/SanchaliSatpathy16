@@ -3,6 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/i_am_sanchali" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_sanchali?logo=twitter&style=for-the-badge" alt="i_am_sanchali" /></a> </p>
 
+
 - 🔭 I’m currently studying at [Shiksha 'O' Anusandhan (ITER),Bhubaneswar](https://www.soa.ac.in/iter)
 
 - 🌱 I’m currently learning [Python](https://www.udemy.com/course/complete-python-bootcamp/)
