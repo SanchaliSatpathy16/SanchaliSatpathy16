@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, I'm Sanchali Satpathy</h1>
-<h3 align="center">A student of B.Tech CSE'24 pursueing from Insttute of Technical and Engineerig Research (SOA). </h3>
+<h3 align="center">A student of B.Tech CSE'24 pursueing from Insttute of Technical and Engineering Research (SOA). </h3>
 
 
 
