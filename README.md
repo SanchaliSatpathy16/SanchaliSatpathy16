@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sanchali.satpathy@gmail.com**
 
-- ⚡ Fun Fact **Fond of doing New Stuffs.**
+- ⚡ Fun Fact: **Fond of doing New Stuffs.**
 
 
 <h3 align="center">Connect with Me: </h3>
