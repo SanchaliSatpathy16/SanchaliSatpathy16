@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchalisatpathy16&label=Profile%20views&color=0e75b6&style=flat" alt="sanchalisatpathy16" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanchalisatpathy16" alt="sanchalisatpathy16" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/i_am_sanchali" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_sanchali?logo=twitter&style=for-the-badge" alt="i_am_sanchali" /></a> </p>
 
 - 🔭 I’m currently studying at [Shiksha 'O' Anusandhan (ITER),Bhubaneswar](https://www.soa.ac.in/iter)
